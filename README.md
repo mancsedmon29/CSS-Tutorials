@@ -27,7 +27,7 @@ The `flex container` is the element that holds `flex items`. Flex items are **di
 </div>
 ```
 
-The list of Flex container properies using Flexbox:
+The list of Flex container properties using Flexbox:
 
 1. display: `flex`
 2. flex-direction: `row|row-reverse|column|column-reverse`
@@ -38,7 +38,7 @@ The list of Flex container properies using Flexbox:
 7. align-content: `stretch|flex-start|flex-end|center|space-between|space-around|space-evenly`
 8. gap: (set the value in `px` or depends)
 
-The list of Flex container properies using Flexbox:
+The list of Flex item properties using Flexbox:
 
 1. order: `0 (default)`
 2. flex-grow: `0 (default)`
